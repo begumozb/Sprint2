@@ -11,7 +11,6 @@
 }
 
 .nav {
-    /*float: right;*/
     text-align: center;
     list-style: none;
     margin-top: 50px;
@@ -37,11 +36,10 @@
     color: #333;
 }
 
+/* Logo for all pages*/
 .logo img {
     width: 120px;
     height: auto;
-    /*float: left;*/
-    /*margin-left: 5%;*/
     top: 2%;
     left: 6%;
     position: absolute;
@@ -56,6 +54,7 @@
     text-align: center;
 }
 
+/* Welcome message for homepage */
 .welcome-message h1 {
     text-align: center;
     color: rgb(156, 245, 182);
@@ -97,6 +96,7 @@
     text-align: center;
 }
 
+/* For the bacground*/
 .banner {
 
     background-image: linear-gradient(rgb(50,50,50,0.7), rgba(26,26,26,0.7)), url(images/background.PNG) ;
